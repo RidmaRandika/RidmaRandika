@@ -1,10 +1,5 @@
 ### Hi there I'm Ridma Randika 👋
 
-<!--
-**RidmaRandika/RidmaRandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying on University od Ruhuna
 - 🌱 I’m currently learning 404(Page Not Found)
 - 👯 I’m looking to collaborate on Industry
