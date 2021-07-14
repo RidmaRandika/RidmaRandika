@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on UncaughtExceptions😄
 - 🤔 I’m looking for help with Learning new Technologies
 - 💬 Ask me about Java , Spring boot , C
-- 📫 How to reach me: https://www.ridma.tech/
 - 😄 Pronouns: @#$%
 - ⚡ Fun fact: Eating -> Sleeping -> Coding -> Shuttering 
 
