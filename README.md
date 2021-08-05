@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on UncaughtExceptions😄
 - 🤔 I’m looking for help with Learning new Technologies
 - 💬 Ask me about Java , Spring boot , C
-- 😄 Pronouns: @#$%
+- 😄 Pronouns: Born 2 Code
 - ⚡ Fun fact: Eating -> Sleeping -> Coding -> Shuttering 
 
 ### Profile Stats
